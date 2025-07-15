@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @mirbek10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi, I’m Mirbek (@mirbek10)
 
-<!---
-mirbek10/mirbek10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 Junior Frontend Developer, passionate about building modern and responsive web apps  
+- 🌱 Currently learning advanced React patterns, TypeScript, and state management with Redux Toolkit  
+- 👀 Interested in UI/UX, design systems, and performance optimization  
+- 💬 Love working in teams and learning from code reviews  
+- 📫 Reach me at: mirbekbook@gmail.com  
+- ⚡ Fun fact: I can turn coffee into clean, semantic HTML  
