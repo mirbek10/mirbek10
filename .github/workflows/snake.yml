@@ -20,14 +20,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#10b981&color_dots=#161b22,#064e3b,#047857,#059669,#10b981
-            dist/snake-light.svg?color_snake=#10b981
-
       - name: Generate stats cards
         uses: actions/setup-node@v4
         with:
@@ -38,6 +30,14 @@ jobs:
           LOGIN: ${{ github.repository_owner }}
           PINNED: easy-finance,Portfolio
           OUT: dist
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#10b981&color_dots=#161b22,#064e3b,#047857,#059669,#10b981
+            dist/snake-light.svg?color_snake=#10b981
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
