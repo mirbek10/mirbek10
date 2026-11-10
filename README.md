@@ -1,26 +1,18 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  ЗАМЕНИ:  YOUR_USERNAME  → свой логин на GitHub              ║
-  ║           Your Name      → своё имя                          ║
-  ║           ссылки в блоке «Contact» → свои                    ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <!-- ═══════════ HEADER ═══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:c9a227&height=220&section=header&text=Your%20Name&fontSize=60&fontColor=f5f5f5&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:c9a227&height=220&section=header&text=Mirbek%20Atanbekov&fontSize=58&fontColor=f5f5f5&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Go&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=C9A227&center=true&vCenter=true&width=600&lines=Crafting+clean%2C+scalable+software;Turning+ideas+into+products;Always+learning.+Always+shipping." alt="Typing SVG" />
+  <a href="https://github.com/Atanbekov-Mirbek">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=C9A227&center=true&vCenter=true&width=620&lines=Front-End+Developer+%F0%9F%98%8E;Pixel-perfect+%26+fast+interfaces;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;Backend+basics+with+Go+%F0%9F%A4%91" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=c9a227&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=1f2937&labelColor=0d1117&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=1f2937&labelColor=0d1117&label=STARS&affiliations=OWNER" />
+  <img src="https://komarev.com/ghpvc/?username=Atanbekov-Mirbek&style=flat-square&color=c9a227&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Atanbekov-Mirbek?style=flat-square&color=1f2937&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Atanbekov-Mirbek?style=flat-square&color=1f2937&labelColor=0d1117&label=STARS&affiliations=OWNER" />
 </p>
 
 <br/>
@@ -33,18 +25,19 @@
 <td width="60%" valign="top">
 
 ```yaml
-name:      Your Name
-location:  Bishkek, Kyrgyzstan
-role:      Software Engineer
-focus:     [ Backend, Web, Product ]
-currently: Building something great
-learning:  [ System Design, Cloud ]
+name:      Мирбек Атанбеков
+role:      Front-End Developer
+location:  Bishkek, Kyrgyzstan 🇰🇬
+frontend:  [ React, Next.js, TypeScript, Tailwind ]
+backend:   [ Go, REST API, PostgreSQL — base ]
+email:     mirbekbook@gmail.com
+phone:     +996 505 577 656
 motto:     "Simplicity is the ultimate sophistication."
 ```
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227&sideLabels=e5e7eb&dates=6b7280&currStreakNum=f5f5f5&sideNums=f5f5f5" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atanbekov-Mirbek&theme=dark&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227&sideLabels=e5e7eb&dates=6b7280&currStreakNum=f5f5f5&sideNums=f5f5f5" width="100%" />
 </td>
 </tr>
 </table>
@@ -54,11 +47,19 @@ motto:     "Simplicity is the ultimate sophistication."
 <!-- ═══════════ STACK ═══════════ -->
 <h2 align="center">◆ Tech Stack</h2>
 
+<p align="center"><b>Front-End</b></p>
 <p align="center">
-  <!-- Список иконок: https://skillicons.dev — оставь только то, чем пользуешься -->
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,react,nextjs,nodejs,tailwind&theme=dark&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,aws,linux,git,figma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,vite&theme=dark&perline=10" />
+</p>
+
+<p align="center"><b>Back-End · base</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,postgres&theme=dark" />
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,npm&theme=dark" />
 </p>
 
 <br/>
@@ -67,12 +68,12 @@ motto:     "Simplicity is the ultimate sophistication."
 <h2 align="center">◆ GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=e5e7eb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atanbekov-Mirbek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atanbekov-Mirbek&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=e5e7eb" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=e5e7eb&line=c9a227&point=f5f5f5&area=true&area_color=c9a227&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Atanbekov-Mirbek&bg_color=0d1117&color=e5e7eb&line=c9a227&point=f5f5f5&area=true&area_color=c9a227&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
 <br/>
@@ -82,11 +83,11 @@ motto:     "Simplicity is the ultimate sophistication."
 
 <p align="center">
   <!-- Замени REPO_1 / REPO_2 на названия своих репозиториев -->
-  <a href="https://github.com/YOUR_USERNAME/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb" />
+  <a href="https://github.com/Atanbekov-Mirbek/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atanbekov-Mirbek&repo=REPO_1&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb" />
+  <a href="https://github.com/Atanbekov-Mirbek/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atanbekov-Mirbek&repo=REPO_2&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb" />
   </a>
 </p>
 
@@ -95,9 +96,9 @@ motto:     "Simplicity is the ultimate sophistication."
 <!-- ═══════════ SNAKE ═══════════ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-light.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atanbekov-Mirbek/Atanbekov-Mirbek/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atanbekov-Mirbek/Atanbekov-Mirbek/output/snake-light.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Atanbekov-Mirbek/Atanbekov-Mirbek/output/snake-dark.svg" width="100%" />
   </picture>
 </p>
 
@@ -107,10 +108,10 @@ motto:     "Simplicity is the ultimate sophistication."
 <h2 align="center">◆ Contact</h2>
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=c9a227" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9a227" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9a227" /></a>
-  <a href="https://your-site.com"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=c9a227" /></a>
+  <a href="mailto:mirbekbook@gmail.com"><img src="https://img.shields.io/badge/Gmail-mirbekbook@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=c9a227&labelColor=0d1117" /></a>
+  <br/>
+  <a href="https://wa.me/996505577656"><img src="https://img.shields.io/badge/WhatsApp-+996_505_577_656-0d1117?style=for-the-badge&logo=whatsapp&logoColor=c9a227&labelColor=0d1117" /></a>
+  <a href="tel:+996505577656"><img src="https://img.shields.io/badge/Phone-Call-0d1117?style=for-the-badge&logo=phone&logoColor=c9a227&labelColor=0d1117" /></a>
 </p>
 
 <!-- ═══════════ FOOTER ═══════════ -->
