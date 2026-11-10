@@ -1,8 +1,8 @@
 # Положи этот файл в репозиторий профиля по пути:
 #   .github/workflows/snake.yml
-# Он раз в 12 часов рисует «змейку», поедающую твой график коммитов.
+# Раз в 12 часов рисует «змейку» и карточки статистики (без сторонних сервисов).
 
-name: Generate Snake
+name: Generate Profile Cards
 
 on:
   schedule:
@@ -18,6 +18,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -25,6 +27,17 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#10b981&color_dots=#161b22,#064e3b,#047857,#059669,#10b981
             dist/snake-light.svg?color_snake=#10b981
+
+      - name: Generate stats cards
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+          PINNED: easy-finance,Portfolio
+          OUT: dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

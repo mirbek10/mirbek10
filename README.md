@@ -37,7 +37,7 @@ motto:     "Simplicity is the ultimate sophistication."
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mirbek10&theme=dark&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=e5e7eb&dates=6b7280&currStreakNum=f5f5f5&sideNums=f5f5f5" width="100%" />
+  <img src="https://raw.githubusercontent.com/mirbek10/mirbek10/output/streak.svg" width="100%" />
 </td>
 </tr>
 </table>
@@ -68,12 +68,12 @@ motto:     "Simplicity is the ultimate sophistication."
 <h2 align="center">◆ GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mirbek10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=e5e7eb&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirbek10&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=e5e7eb" />
+  <img height="180" src="https://raw.githubusercontent.com/mirbek10/mirbek10/output/stats.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/mirbek10/mirbek10/output/langs.svg" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirbek10&bg_color=0d1117&color=e5e7eb&line=10b981&point=f5f5f5&area=true&area_color=10b981&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="95%" src="https://raw.githubusercontent.com/mirbek10/mirbek10/output/activity.svg" />
 </p>
 
 <br/>
@@ -84,10 +84,10 @@ motto:     "Simplicity is the ultimate sophistication."
 <p align="center">
   <!-- Замени easy-finance / Portfolio на названия своих репозиториев -->
   <a href="https://github.com/mirbek10/easy-finance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirbek10&repo=easy-finance&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=e5e7eb" />
+    <img width="400" src="https://raw.githubusercontent.com/mirbek10/mirbek10/output/project-easy-finance.svg" />
   </a>
   <a href="https://github.com/mirbek10/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirbek10&repo=Portfolio&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=e5e7eb" />
+    <img width="400" src="https://raw.githubusercontent.com/mirbek10/mirbek10/output/project-Portfolio.svg" />
   </a>
 </p>
 
