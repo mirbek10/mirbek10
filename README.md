@@ -37,7 +37,7 @@ motto:     "Simplicity is the ultimate sophistication."
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atanbekov-Mirbek&theme=dark&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227&sideLabels=e5e7eb&dates=6b7280&currStreakNum=f5f5f5&sideNums=f5f5f5" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mirbek10&theme=dark&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227&sideLabels=e5e7eb&dates=6b7280&currStreakNum=f5f5f5&sideNums=f5f5f5" width="100%" />
 </td>
 </tr>
 </table>
