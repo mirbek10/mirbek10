@@ -115,7 +115,9 @@ function langsCard(u) {
     map[e.node.name] ??= { size: 0, color: e.node.color || C.muted };
     map[e.node.name].size += e.size;
   }
-  const list = Object.entries(map).sort((a, b) => b[1].size - a[1].size).slice(0, 8);
+  let list = Object.entries(map).sort((a, b) => b[1].size - a[1].size);
+  const all = list.reduce((a, [, v]) => a + v.size, 0) || 1;
+  list.splice(0, list.length, ...list.filter(([, v]) => v.size / all >= 0.005).slice(0, 8));
   const total = list.reduce((a, [, v]) => a + v.size, 0) || 1;
   let x = 24; const W = 340 - 48;
   const bar = list.map(([, v], i) => {
@@ -158,7 +160,7 @@ ${col(316, longest, "Longest Streak", false)}
 function activityCard(u) {
   const d = days(u).slice(-31);
   const W = 860, H = 280, pl = 50, pr = 24, pt = 60, pb = 44;
-  const max = Math.max(4, ...d.map((x) => x.contributionCount));
+  const max = Math.ceil(Math.max(4, ...d.map((x) => x.contributionCount)) / 4) * 4;
   const step = (W - pl - pr) / (d.length - 1);
   const pts = d.map((x, i) => [pl + i * step, pt + (H - pt - pb) * (1 - x.contributionCount / max)]);
   const line = pts.map(([x, y], i) => `${i ? "L" : "M"}${x.toFixed(1)} ${y.toFixed(1)}`).join(" ");
