@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Atanbekov-Mirbek">
+  <a href="https://github.com/mirbek10">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=C9A227&center=true&vCenter=true&width=620&lines=Front-End+Developer+%F0%9F%98%8E;Pixel-perfect+%26+fast+interfaces;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;Backend+basics+with+Go+%F0%9F%A4%91" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atanbekov-Mirbek&style=flat-square&color=c9a227&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Atanbekov-Mirbek?style=flat-square&color=1f2937&labelColor=0d1117&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/Atanbekov-Mirbek?style=flat-square&color=1f2937&labelColor=0d1117&label=STARS&affiliations=OWNER" />
+  <img src="https://komarev.com/ghpvc/?username=mirbek10&style=flat-square&color=c9a227&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/mirbek10?style=flat-square&color=1f2937&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/mirbek10?style=flat-square&color=1f2937&labelColor=0d1117&label=STARS&affiliations=OWNER" />
 </p>
 
 <br/>
@@ -68,12 +68,12 @@ motto:     "Simplicity is the ultimate sophistication."
 <h2 align="center">◆ GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atanbekov-Mirbek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atanbekov-Mirbek&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=e5e7eb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mirbek10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirbek10&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=e5e7eb" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Atanbekov-Mirbek&bg_color=0d1117&color=e5e7eb&line=c9a227&point=f5f5f5&area=true&area_color=c9a227&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirbek10&bg_color=0d1117&color=e5e7eb&line=c9a227&point=f5f5f5&area=true&area_color=c9a227&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
 <br/>
@@ -82,12 +82,12 @@ motto:     "Simplicity is the ultimate sophistication."
 <h2 align="center">◆ Featured Projects</h2>
 
 <p align="center">
-  <!-- Замени REPO_1 / REPO_2 на названия своих репозиториев -->
-  <a href="https://github.com/Atanbekov-Mirbek/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atanbekov-Mirbek&repo=REPO_1&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb" />
+  <!-- Замени easy-finance / Portfolio на названия своих репозиториев -->
+  <a href="https://github.com/mirbek10/easy-finance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirbek10&repo=easy-finance&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb" />
   </a>
-  <a href="https://github.com/Atanbekov-Mirbek/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atanbekov-Mirbek&repo=REPO_2&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb" />
+  <a href="https://github.com/mirbek10/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirbek10&repo=Portfolio&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=e5e7eb" />
   </a>
 </p>
 
@@ -96,9 +96,9 @@ motto:     "Simplicity is the ultimate sophistication."
 <!-- ═══════════ SNAKE ═══════════ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atanbekov-Mirbek/Atanbekov-Mirbek/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atanbekov-Mirbek/Atanbekov-Mirbek/output/snake-light.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Atanbekov-Mirbek/Atanbekov-Mirbek/output/snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirbek10/mirbek10/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirbek10/mirbek10/output/snake-light.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/mirbek10/mirbek10/output/snake-dark.svg" width="100%" />
   </picture>
 </p>
 
